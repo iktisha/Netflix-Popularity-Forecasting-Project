@@ -48,6 +48,6 @@ The goal? To understand what *actually* works — and what might in the future.
 ## 👩‍💻 Author
 
 **Iktisha Prasad**  
-Computer Science undergrad | Data enthusiast | Pattern finder  
+Computer Science undergrad
 
 > Curious enough to dig, patient enough to clean, and nerdy enough to forecast what's next.
