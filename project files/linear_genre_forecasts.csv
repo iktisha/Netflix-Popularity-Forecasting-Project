@@ -1,0 +1,128 @@
+release_year,main_genre,predicted_count
+2001,Action & Adventure,11
+2002,Action & Adventure,15
+2003,Action & Adventure,15
+2004,Action & Adventure,17
+2005,Action & Adventure,12
+2006,Action & Adventure,11
+2007,Action & Adventure,15
+2008,Action & Adventure,24
+2009,Action & Adventure,21
+2010,Action & Adventure,29
+2011,Action & Adventure,26
+2012,Action & Adventure,29
+2013,Action & Adventure,29
+2014,Action & Adventure,28
+2015,Action & Adventure,53
+2016,Action & Adventure,80
+2017,Action & Adventure,89
+2018,Action & Adventure,81
+2019,Action & Adventure,44
+2020,Action & Adventure,46
+2021,Action & Adventure,37
+2021,Action & Adventure,62
+2022,Action & Adventure,65
+2023,Action & Adventure,68
+2024,Action & Adventure,71
+2025,Action & Adventure,74
+2001,Comedies,13
+2002,Comedies,4
+2003,Comedies,14
+2004,Comedies,11
+2005,Comedies,19
+2006,Comedies,26
+2007,Comedies,18
+2008,Comedies,31
+2009,Comedies,33
+2010,Comedies,37
+2011,Comedies,33
+2012,Comedies,48
+2013,Comedies,47
+2014,Comedies,60
+2015,Comedies,76
+2016,Comedies,116
+2017,Comedies,133
+2018,Comedies,138
+2019,Comedies,118
+2020,Comedies,90
+2021,Comedies,48
+2021,Comedies,109
+2022,Comedies,114
+2023,Comedies,120
+2024,Comedies,126
+2025,Comedies,131
+2002,Documentaries,3
+2004,Documentaries,1
+2005,Documentaries,5
+2006,Documentaries,3
+2007,Documentaries,4
+2008,Documentaries,5
+2009,Documentaries,3
+2010,Documentaries,8
+2011,Documentaries,7
+2012,Documentaries,11
+2013,Documentaries,28
+2014,Documentaries,30
+2015,Documentaries,66
+2016,Documentaries,132
+2017,Documentaries,164
+2018,Documentaries,117
+2019,Documentaries,103
+2020,Documentaries,74
+2021,Documentaries,51
+2021,Documentaries,104
+2022,Documentaries,110
+2023,Documentaries,117
+2024,Documentaries,124
+2025,Documentaries,131
+2001,Dramas,9
+2002,Dramas,15
+2003,Dramas,11
+2004,Dramas,12
+2005,Dramas,17
+2006,Dramas,21
+2007,Dramas,23
+2008,Dramas,30
+2009,Dramas,28
+2010,Dramas,48
+2011,Dramas,30
+2012,Dramas,42
+2013,Dramas,59
+2014,Dramas,68
+2015,Dramas,130
+2016,Dramas,189
+2017,Dramas,197
+2018,Dramas,216
+2019,Dramas,166
+2020,Dramas,136
+2021,Dramas,57
+2021,Dramas,159
+2022,Dramas,168
+2023,Dramas,176
+2024,Dramas,185
+2025,Dramas,194
+2002,International TV Shows,4
+2003,International TV Shows,4
+2004,International TV Shows,4
+2005,International TV Shows,3
+2006,International TV Shows,1
+2007,International TV Shows,2
+2008,International TV Shows,5
+2009,International TV Shows,16
+2010,International TV Shows,13
+2011,International TV Shows,13
+2012,International TV Shows,27
+2013,International TV Shows,24
+2014,International TV Shows,26
+2015,International TV Shows,64
+2016,International TV Shows,87
+2017,International TV Shows,73
+2018,International TV Shows,94
+2019,International TV Shows,109
+2020,International TV Shows,115
+2021,International TV Shows,88
+2021,International TV Shows,97
+2022,International TV Shows,104
+2023,International TV Shows,110
+2024,International TV Shows,116
+2025,International TV Shows,122
